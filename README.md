@@ -17,6 +17,7 @@ This project is a simple HTML/CSS Quiz designed as a practice project for freeCo
 The HTML/CSS Quiz project is a part of freeCodeCamp's Accessibility module. It aims to reinforce key concepts related to HTML and CSS while emphasizing accessibility best practices in web development.
 
 ## Features
+
 <ul>
 <li>Interactive quiz format</li>
 <li>HTML and CSS questions</li>
@@ -25,7 +26,7 @@ The HTML/CSS Quiz project is a part of freeCodeCamp's Accessibility module. It a
 
 ## Screenshot 
 
-<img src="[F:\code\HTML-CSS-Quiz\Preview.png](https://github.com/Yashi-Singh-1/HTML-CSS-Quiz/blob/main/Preview.png)">
+<img src="https://github.com/Yashi-Singh-1/HTML-CSS-Quiz/blob/main/Preview.png">
 
 ## Installation
 
