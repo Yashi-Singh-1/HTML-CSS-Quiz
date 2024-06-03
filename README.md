@@ -4,13 +4,13 @@ This project is a simple HTML/CSS Quiz designed as a practice project for freeCo
 
 ## Table of Contents
 
-About
-Features
-Demo
-Installation
-Usage
-Contributing
-License
+<ul>
+<li>About</li>
+<li>Features</li>
+<li>Installation</li>
+<li>Usage</li>
+<li>Contributing</li>
+</ul>
 
 ## About
 
@@ -23,16 +23,9 @@ The HTML/CSS Quiz project is a part of freeCodeCamp's Accessibility module. It a
 <li>Accessibility enhancements for screen readers</li>
 <li>Smooth scrolling for improved user experience</li>
 
-## Demo
-
-Live Demo <br>
-    <video width="640" height="360" controls>
-        <source src="F:\code\HTML-CSS-Quiz\HTML-CSS-Quiz.mp4" type="video/mp4">
-    </video>  
-
 ## Screenshot 
 
-<img src="F:\code\HTML-CSS-Quiz\Preview.png">
+<img src="[F:\code\HTML-CSS-Quiz\Preview.png](https://github.com/Yashi-Singh-1/HTML-CSS-Quiz/blob/main/Preview.png)">
 
 ## Installation
 
