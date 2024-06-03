@@ -23,6 +23,7 @@ The HTML/CSS Quiz project is a part of freeCodeCamp's Accessibility module. It a
 <li>HTML and CSS questions</li>
 <li>Accessibility enhancements for screen readers</li>
 <li>Smooth scrolling for improved user experience</li>
+</ul>
 
 ## Screenshot 
 
